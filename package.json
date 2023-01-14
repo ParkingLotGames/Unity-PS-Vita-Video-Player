@@ -1,0 +1,10 @@
+{
+    "name": "com.parkinglotgames.psvitavideoplayer",
+    "displayName": "PSVita Video Player",
+    "version": "1.0.0",
+    "documentationUrl": "https://github.com/ParkingLotGames/Unity-PSVita-Video-Player",
+    "changelogUrl": "https://github.com/ParkingLotGames/Unity-PSVita-Video-Player/releases",
+    "licensesUrl": "https://github.com/ParkingLotGames/Unity-PSVita-Video-Player/blob/master/LICENSE",
+    "description": "2017+ Compatible, should work on 5 too. A working example for video playback in Unity for PS Vita.",
+    "hideInEditor": false
+}
