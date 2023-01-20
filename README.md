@@ -1,4 +1,4 @@
-# Unity-PS-Vita-Video-Player
+# Unity PS Vita Video Player
 
 ![Unity Version](https://img.shields.io/badge/Unity-2018.2%2B-blue?style=plastic) ![License](https://img.shields.io/github/license/ParkingLotGames/Unity-PS-Vita-Video-Player?style=plastic) ![Size](https://img.shields.io/github/repo-size/ParkingLotGames/Unity-PS-Vita-Video-Player?style=plastic) ![package.json version (branch)](https://img.shields.io/github/package-json/v/ParkingLotGames/Unity-PS-Vita-Video-Player/main?style=plastic) ![Last commit](https://img.shields.io/github/last-commit/ParkingLotGames/Unity-PS-Vita-Video-Player?style=plastic)
 
