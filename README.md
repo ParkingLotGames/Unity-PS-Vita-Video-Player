@@ -10,4 +10,4 @@ A working example for video playback in Unity for PS Vita
 
 # //TODO
 
-#### Add summaries, documen
+#### Add summaries, documentation, comments, examples.
